@@ -1,4 +1,4 @@
-# #Minimal stack for a beginner images ML project (CPU)
+## Minimal stack for a beginner images ML project (CPU)
 - jupyterlab
 - ipykernel
 - numpy
