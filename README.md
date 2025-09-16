@@ -1,4 +1,4 @@
-* Minimal stack for a beginner images ML project (CPU) *
+# #Minimal stack for a beginner images ML project (CPU)
 - jupyterlab
 - ipykernel
 - numpy
@@ -8,8 +8,8 @@
 - pillow
 - opencv-python
 - scikit-image
--  tqdm
-## Optional deep learning (CPU-only wheels)
-# torch
-# torchvision
-# torchaudio
+- tqdm
+- Optional deep learning (CPU-only wheels)
+- torch
+- torchvision
+- torchaudio
